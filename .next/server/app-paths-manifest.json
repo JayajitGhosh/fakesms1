@@ -1,0 +1,22 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/student/dashboard/page": "app/student/dashboard/page.js",
+  "/student/grades/page": "app/student/grades/page.js",
+  "/student/attendance/page": "app/student/attendance/page.js",
+  "/student/schedule/page": "app/student/schedule/page.js",
+  "/student/announcements/page": "app/student/announcements/page.js",
+  "/teacher/dashboard/page": "app/teacher/dashboard/page.js",
+  "/teacher/classes/page": "app/teacher/classes/page.js",
+  "/teacher/grades/page": "app/teacher/grades/page.js",
+  "/teacher/attendance/page": "app/teacher/attendance/page.js",
+  "/teacher/announcements/page": "app/teacher/announcements/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/admin/classes/page": "app/admin/classes/page.js",
+  "/admin/payments/pipeline": "app/admin/payments/pipeline.js",
+  "/admin/analytics/page": "app/admin/analytics/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js"
+}
